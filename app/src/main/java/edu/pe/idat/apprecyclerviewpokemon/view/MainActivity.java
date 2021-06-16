@@ -62,7 +62,7 @@ public class MainActivity extends AppCompatActivity {
                 }
             }
         });
-        obtenerPokemones(new Constantes().URL_BASE_API);
+        obtenerPokemones(Constantes.URL_BASE_API);
     }
 
     private void obtenerPokemones(String url) {

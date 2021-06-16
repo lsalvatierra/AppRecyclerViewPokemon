@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">AppRecyclerViewPokemon</string>
+    <string name="valtitulologin">AUTENTICACIÓN</string>
+    <string name="valetusuario">Ingrese su usuario</string>
+    <string name="valetpassword">Ingrese su password</string>
+    <string name="valbtnlogin">INGRESAR</string>
+    <string name="validusuariopass">Usuario y password obligatorio.</string>
+    <string name="errapirest">Error en el servidor, intente de nuevo.</string>
 </resources>
